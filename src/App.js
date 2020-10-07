@@ -1,12 +1,14 @@
 import React from 'react';
-import ReactDom from'react-dom';
+//import ReactDom from'react-dom';
 import './App.css';
-import Prathyu from './prathyu.js';
+// import Prathyu from './prathyu.js';
 import Cards from './component/card.js';
 import {BrowserRouter,Route} from 'react-router-dom';
 import Resume from './component/Resume.js';
 
-// import logo from './logo.svg';
+
+
+ // import logo from './logo.svg';
 // import './App.css';
 // import Header from './header.js';
 // import Header1 from './header1.js';

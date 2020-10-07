@@ -2,23 +2,95 @@
     "details":[
      {
       "card":{
-       "name":"surya",
-       "email":"surya@gmail.com",
-       "mobile":"987654321",
-       "description":"Apssdc Trainer"
+       "name":"prathyusha",
+       "email":"prathyushasindhusha@gmail.com",
+       "mobile":"8374330346",
+       "description":"stuudent"
       },
-       "career":"i want to be trainer"
+      "career":"i want to be front end developer",
+      "educationalqualification":[
+        {
+            "institute":"anits",
+            "degree":"btech",
+            "passoutyear":"2022",
+            "percentage":"93%"
+        },
+        {
+            "institute":"sri chaitanya",
+            "degree":"intermediate",
+            "passoutyear":"2018",
+            "percentage":"96%"
+        },
+        {
+            "institute":"sri chaitanya",
+            "degree":"ssc",
+            "passoutyear":"2016",
+            "percentage":"100%"
+        }
+      ],
+    "technicaldetails":[
+        {
+            "title":"programming languages",
+             "info":["c,cpp,java"]
+        },
+        {
+            "title":"databases",
+             "info":["oracle,sql,mysql"]
+        },
+        {
+            "title":"operating systems",
+             "info":["windows,ubuntu,linux"]
+        }
+    
+       ]
+       
      },
    
      {
       "card":{
-       "name":"venkat",
-       "email":"venkat@gmail.com",
-       "mobile":"876590432",
-       "description":"Software Developer"
+       "name":"sindhusha",
+       "email":"sindhushapadmanabhuni@gmail.com",
+       "mobile":"9052318486",
+       "description":"student"
       },
-      "career":"i want to be developer"
+      "career":"i want to be developer",
+      "educationalqualification":[
+        {
+            "institute":"NITW",
+            "degree":"btech",
+            "passoutyear":"2022",
+            "percentage":"83%"
+        },
+        {
+            "institute":"sri chaitanya",
+            "degree":"intermediate",
+            "passoutyear":"2018",
+            "percentage":"97%"
+        },
+        {
+            "institute":"sri chaitanya",
+            "degree":"ssc",
+            "passoutyear":"2016",
+            "percentage":"100%"
+        }
+    ],
+    "technicaldetails":[
+        {
+            "title":"programming languages",
+             "info":["cpp,java"]
+        },
+        {
+            "title":"databases",
+             "info":["mysql"]
+        },
+        {
+            "title":"operating systems",
+             "info":["windows,ubuntu"]
+        }
+    
+      ]
+     
      }
     ]
-   }
+}
    
